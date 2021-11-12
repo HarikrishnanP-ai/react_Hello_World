@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_Hello_World/static/css/main.35a6ff8d.chunk.css",
+    "main.js": "/react_Hello_World/static/js/main.e6e1aade.chunk.js",
+    "main.js.map": "/react_Hello_World/static/js/main.e6e1aade.chunk.js.map",
+    "runtime-main.js": "/react_Hello_World/static/js/runtime-main.e30b4f8b.js",
+    "runtime-main.js.map": "/react_Hello_World/static/js/runtime-main.e30b4f8b.js.map",
+    "static/js/2.fa9efde8.chunk.js": "/react_Hello_World/static/js/2.fa9efde8.chunk.js",
+    "static/js/2.fa9efde8.chunk.js.map": "/react_Hello_World/static/js/2.fa9efde8.chunk.js.map",
+    "static/js/3.44b6aa3f.chunk.js": "/react_Hello_World/static/js/3.44b6aa3f.chunk.js",
+    "static/js/3.44b6aa3f.chunk.js.map": "/react_Hello_World/static/js/3.44b6aa3f.chunk.js.map",
+    "index.html": "/react_Hello_World/index.html",
+    "static/css/main.35a6ff8d.chunk.css.map": "/react_Hello_World/static/css/main.35a6ff8d.chunk.css.map",
+    "static/js/2.fa9efde8.chunk.js.LICENSE.txt": "/react_Hello_World/static/js/2.fa9efde8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e30b4f8b.js",
+    "static/js/2.fa9efde8.chunk.js",
+    "static/css/main.35a6ff8d.chunk.css",
+    "static/js/main.e6e1aade.chunk.js"
+  ]
+}
